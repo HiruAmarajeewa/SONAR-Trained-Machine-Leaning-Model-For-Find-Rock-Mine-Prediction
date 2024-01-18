@@ -39,6 +39,8 @@ The logistic regression model exhibited robust performance, achieving high accur
 ## 🎉 Conclusion 
 The project presents promising results in accurately classifying rocks and mines based on SONAR data. The developed model has implications for enhancing maritime navigation, safety, and defense, successfully achieving its objectives.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance or fix any issues in the system.
 ## 🚀 Installation
 
 Clone the repository to your local machine using the following command:
